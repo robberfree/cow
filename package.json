@@ -1,0 +1,8 @@
+{
+  "name": "cow",
+  "version": "1.0.0",
+  "description": "A Simple copy on write library",
+  "main": "src/index.js",
+  "author": "robberfree",
+  "license": "MIT"
+}
